@@ -425,7 +425,7 @@ section.recruit{
     text-decoration: none;
 }
 section.footer{
-    background-image: url(/img/bg-footer.png);
+    background-image: url(../img/bg-footer.png);
     background-repeat: no-repeat;
     background-size: 100%;
     border-top: 1.5px solid #ECECEC;
@@ -452,7 +452,7 @@ section.footer{
     width: 60%;
     border-radius: 50%;
 }
-.col22{
+.col22, .col221{
     width: 22.5%;
 }
 
